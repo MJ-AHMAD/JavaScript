@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "John Doe",
+    "streak": 7,
+    "totalStudyTime": 1935,
+    "coursesProgress": [
+      {
+        "courseId": 1,
+        "title": "JavaScript Fundamentals",
+        "progress": 80,
+        "completedLessons": 16,
+        "totalLessons": 20,
+        "lastAccessed": "2025-05-06T16:09:22.761Z",
+        "moduleProgress": [
+          {
+            "moduleId": 1,
+            "title": "Introduction to JavaScript",
+            "completed": true
+          }
+        ]
+      }
+    ],
+    "achievements": [],
+    "nextLessons": [],
+    "updatedAt": "2025-05-06T16:09:22.761Z"
+  }
+]
